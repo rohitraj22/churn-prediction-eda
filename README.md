@@ -50,7 +50,7 @@ The goal is to provide actionable insights for improving customer retention and 
   - `Tenure` ↔ `TotalCharges` (0.83) → longer customers accumulate higher bills.  
   - `MonthlyCharges` ↔ `TotalCharges` (0.65).  
 - **Decision Trees:**
-  - `Post-Pruned DT` worked best with an accuracy of 79.95% (with a `ccp_alpha` of around 0.003235.
+  - `Post-Pruned DT` worked best with an accuracy of 79.95% (with a `ccp_alpha` of around 0.003235).
   - The `Pre-Pruned Dt` fetched an accuracy of around 78%, and the fully grown one has an accuracy of around 71.33%.
 ---
 
